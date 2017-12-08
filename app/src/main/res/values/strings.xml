@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FRID voice output</string>
+
+    <string name="hint_email">Email Id</string>
+    <string name="login">Login</string>
+    <string name="login_btn">Login</string>
+    <string name="password">Password</string>
+    <string name="err_msg_email">Email id is not valid</string>
+    <string name="err_msg_password">Password should be minimum of 5 length.</string>
+    <string name="register">Register</string>
+    <string name="regisetr">Register</string>
+    <string name="hint_name">Full Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="register_tv_message">Not Register Yet?</string>
+    <string name="err_msg_mobile">Mobile cannot be empty.</string>
+    <string name="err_msg_name">Name cannot be empty.</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="address">Address</string>
+    <string name="ip_address">IP address</string>
+    <string name="change_ip">Change IP</string>
+    <string name="update_ip">Update IP</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="scane">Scane</string>
+
+</resources>
